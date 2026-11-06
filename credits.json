@@ -1,0 +1,17 @@
+{
+  "generated" : [
+    {
+      "file" : "Assets/clip.png"
+    }
+  ],
+  "remixOf" : [
+    {
+      "name" : "Paperclip",
+      "url" : "https://github.com/mrubens/paperclip",
+      "wish" : "1B4B4552-8043-4021-95C8-C95ECA316A24"
+    }
+  ],
+  "upstream" : [
+
+  ]
+}
